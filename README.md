@@ -4,6 +4,9 @@ AI/ML Engineer focused on building production-style
 Retrieval-Augmented Generation (RAG) systems and
 agent-based AI workflows, with a strong backend orientation.
 
+ **Resume:** [View PDF](https://github.com/MohammedYaseenAhmedKhan/Resume/blob/main/Mohammed_Yaseen_AI_ML_Engineer.pdf)  
+ **LinkedIn:** https://linkedin.com/in/yaseen-khan-2b253a336
+
 ## About Me
 I work on designing and implementing end-to-end AI systems that combine
 machine learning, information retrieval, and large language models.
