@@ -25,7 +25,7 @@ AI applications.
 - Integrated an LLM to generate source-grounded answers
 - Designed backend APIs and an interactive interface with a focus on reliability
 
-🔗 Repository: https://github.com/MohammedYaseenAhmedKhan/Enterprise-Documentaion-QA
+ Repository: https://github.com/MohammedYaseenAhmedKhan/Enterprise-Documentaion-QA
 
 ### Agentic Customer Support Bot
 - Designed an agent-based AI system for SaaS customer support automation
@@ -33,7 +33,7 @@ AI applications.
 - Built a RAG-based knowledge retrieval agent using embeddings and FAISS
 - Focused on modular architecture and scalable workflows
 
-🔗 Repository: https://github.com/MohammedYaseenAhmedKhan/agentic-customer-success-bot
+ Repository: https://github.com/MohammedYaseenAhmedKhan/agentic-customer-success-bot
 
 ## Open Source
 - Actively exploring and contributing to LangChain-related open-source projects
